@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\x\\x\\intermediate\\build\\win64\\unrealeditor\\inc\\x\\uht\\xgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\x\\x\\intermediate\\build\\win64\\x64\\xeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\x\\x\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\x\\definitions.x.h",
+            "d:\\unrealprojects\\x\\x\\source\\x\\xgamemode.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\unrealprojects\\x\\x\\intermediate\\build\\win64\\unrealeditor\\inc\\x\\uht\\xgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
