@@ -20,7 +20,7 @@
 /ALTERNATENAME:__imp___std_init_once_complete=__imp_InitOnceComplete
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\lib\x64"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\lib\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
@@ -39,8 +39,8 @@
 "D:\UnrealProjects\X\X\Intermediate\Build\Win64\x64\UnrealEditor\Development\X\XCharacter.gen.cpp.obj"
 "D:\UnrealProjects\X\X\Intermediate\Build\Win64\x64\UnrealEditor\Development\X\XGameMode.gen.cpp.obj"
 "D:\UnrealProjects\X\X\Intermediate\Build\Win64\x64\UnrealEditor\Development\X\X.cpp.obj"
-"D:\UnrealProjects\X\X\Intermediate\Build\Win64\x64\UnrealEditor\Development\X\XCharacter.cpp.obj"
 "D:\UnrealProjects\X\X\Intermediate\Build\Win64\x64\UnrealEditor\Development\X\XGameMode.cpp.obj"
+"D:\UnrealProjects\X\X\Intermediate\Build\Win64\x64\UnrealEditor\Development\X\XCharacter.cpp.obj"
 "D:\UnrealProjects\X\X\Intermediate\Build\Win64\x64\UnrealEditor\Development\X\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
