@@ -11,6 +11,8 @@
     <None Include="..\..\Source\XEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -52,6 +54,18 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\X\XGameMode.h">
       <Filter>Source\X</Filter>
+    </ClInclude>
+    <Filter Include="Source\X\Private">
+      <UniqueIdentifier>{0863FAFB-EDF7-3DF1-A5E6-208DD5CB8421}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\X\Private\Enemy.cpp">
+      <Filter>Source\X\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\X\Public">
+      <UniqueIdentifier>{6F427082-1CFE-3341-B967-F11634EE293C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\X\Public\Enemy.h">
+      <Filter>Source\X\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

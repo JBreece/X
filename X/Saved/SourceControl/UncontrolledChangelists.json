@@ -6,7 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/UnrealProjects/X/X/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/UnrealProjects/X/X/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+				"D:/UnrealProjects/X/X/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/UnrealProjects/X/X/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UnrealProjects/X/X/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/XN/4ND875ZSTNKZNQHSI51KY4.uasset",
+				"D:/UnrealProjects/X/X/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/IC/9AQE6WMZEFKKI3KF6WTK5Z.uasset",
+				"D:/UnrealProjects/X/X/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/UnrealProjects/X/X/Content/StarterContent/Props/Materials/M_Chair.uasset"
 			]
 		}
 	]
